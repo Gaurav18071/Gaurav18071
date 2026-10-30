@@ -1,14 +1,110 @@
-# 💫 About Me:
- 👋 About Me<br><br>Hi, I'm **Gaurav Mishra**, a Computer Science & Engineering student and aspiring **Full-Stack Developer** from India.<br><br>I enjoy building practical, user-focused applications and turning ideas into functional products. My current focus is on strengthening my skills in **MERN Stack, Next.js, TypeScript, SQL, and DSA**, while exploring how **AI can be integrated into modern web applications**.<br><br>💻 What I Work With<br><br>* **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS<br>* **Backend:** Node.js, Express.js, REST APIs<br>* **Database:** MongoDB, PostgreSQL, Supabase<br>* **Languages:** C++, JavaScript, TypeScript, Python<br>* **Tools:** Git, GitHub, Vercel<br>* **Currently Learning:** Advanced Full-Stack Development, DSA & AI-powered applications<br><br>🚀 What I'm Building<br><br>I like working on projects that solve real-world problems, from **travel platforms and dashboards to AI-enabled applications and SaaS products**.<br><br>I'm currently looking for opportunities where I can **learn from experienced developers, contribute to real products, and grow as a software engineer.**<br><br>📌 **GitHub:** [github.com/Gaurav18071](https://github.com/Gaurav18071)<br>💼 **LinkedIn:** [linkedin.com/in/gaurav18071](https://in.linkedin.com/in/gaurav18071)<br>**Portfolio:** (https://gaurav-portfolio-ea7.pages.dev/)<br>
+<h1 align="center">Hi, I'm Gaurav Mishra 👋</h1>
 
+<p align="center">
+  <b>Java Backend & Full-Stack Developer</b> · Final-year B.Tech CSE (2027) · Delhi, India
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav18071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravmishra.dev.27@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav18071&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gaurav18071&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/Gaurav18071"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gaurav18071"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauravmishra.dev.27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gaurav-portfolio-ea7.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
+---
+
+## 💫 About Me
+
+I'm a Computer Science & Engineering student who enjoys building practical, user-focused applications, with a strong lean towards **Java backend development**: Spring Boot REST APIs, JWT authentication, JPA/Hibernate, and PostgreSQL. I pair that with modern frontends in **React and Next.js**, and I'm exploring how **AI/LLM APIs** can be integrated into real products.
+
+- 🏛️ Currently a **Data & AI Intern at the Ministry of Panchayati Raj**, Government of India, working on LLM training datasets for a complaint-portal chatbot
+- 🧩 **100+ DSA problems** solved on LeetCode and NeetCode (Blind 75)
+- 🏆 **Smart India Hackathon 2024** Team Leader · **TechnoXian Line Follower Robot** 5th place (Global)
+- 🔍 Looking for a **Java SDE / Backend role** where I can build and own systems end-to-end
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Backend (Java)**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Flapboard** | AI-powered adaptive typing platform: deterministic Java scoring engine, LLM-narrated coaching | Java, Spring Boot, Spring Security, PostgreSQL, JWT, Docker, Next.js | [Live](https://typing-master-pied.vercel.app/) · [Code](https://github.com/Gaurav18071/typingMaster) |
+| **Golf Charity Platform** | Role-based fundraising platform (donor / organizer / admin) with Razorpay payments | Next.js, TypeScript, Supabase, Prisma, Razorpay, Zod | [Live](https://golf-platform-gn.vercel.app/) · [Code](https://github.com/Gaurav18071/Golf-charity-Platform) |
+| **HireTrack** | Recruitment management (ATS) with a full hiring pipeline per application | Next.js, TypeScript, Prisma, Auth.js, bcrypt, shadcn/ui | [Code](https://github.com/Gaurav18071/Hiretrack-ai) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Gaurav18071&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats (total commits)" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gaurav18071&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gaurav18071&theme=dark&hide_border=false" alt="GitHub Streak (current streak, longest streak, total contributions)" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/Gaurav18071" alt="Contribution Graph" width="90%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to Java SDE / Backend opportunities. Let's connect!</i>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
